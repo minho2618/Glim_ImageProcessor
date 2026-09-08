@@ -91,6 +91,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Exceptions.h" />
+    <ClInclude Include="FilterBase.h" />
     <ClInclude Include="GrayscaleFilter.h" />
     <ClInclude Include="ImageBuffer.h" />
     <ClInclude Include="BmpParser.h" />
