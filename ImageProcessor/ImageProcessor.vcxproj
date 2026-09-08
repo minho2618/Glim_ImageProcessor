@@ -83,6 +83,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="GrayscaleFilter.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="ImageBuffer.cpp" />
     <ClCompile Include="BmpParser.cpp" />
@@ -90,9 +91,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Exceptions.h" />
+    <ClInclude Include="GrayscaleFilter.h" />
     <ClInclude Include="ImageBuffer.h" />
     <ClInclude Include="BmpParser.h" />
     <ClInclude Include="CommandLineParser.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
 </Project>

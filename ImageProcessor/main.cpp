@@ -18,7 +18,8 @@
 #include <iostream>
 
  // TODO: 본인이 구현한 필터 헤더를 include 하세요.
- // #include "GrayscaleFilter.h"
+#include "FilterBase.h"
+#include "GrayscaleFilter.h"
  // #include "ThresholdFilter.h"
  // ...
 
@@ -57,8 +58,19 @@ int main(int argc, char* argv[]) {
         // ───────────────────────────────────────────────────────
 
         // ↓ 여기에 필터 적용 코드를 작성하세요.
+        // FilterBase
 
-
+        if (options.filterName == "grayscale") {
+             ip::GrayscaleFilter filter;
+             filter.apply(image);
+        }
+        else if (options.filterName == "threshold:128") {
+            //ThresholdFilter filter(128);
+            //filter.apply(image);
+        }
+        else {
+           throw ip::FilterError("Unknown filter: " + options.filterName);
+        }
 
         // ── BMP 저장 (제공된 코드) ──────────────────────────────
         ip::BmpParser::saveToFile(options.outputPath, image);
