@@ -3,3 +3,4 @@ D:\work\Glim_ImageProcessor\ImageProcessor\main.cpp;D:\work\Glim_ImageProcessor\
 D:\work\Glim_ImageProcessor\ImageProcessor\ImageBuffer.cpp;D:\work\Glim_ImageProcessor\ImageProcessor\x64\Debug\ImageBuffer.obj
 D:\work\Glim_ImageProcessor\ImageProcessor\BmpParser.cpp;D:\work\Glim_ImageProcessor\ImageProcessor\x64\Debug\BmpParser.obj
 D:\work\Glim_ImageProcessor\ImageProcessor\CommandLineParser.cpp;D:\work\Glim_ImageProcessor\ImageProcessor\x64\Debug\CommandLineParser.obj
+D:\work\Glim_ImageProcessor\ImageProcessor\ThresholdFilter.cpp;D:\work\Glim_ImageProcessor\ImageProcessor\x64\Debug\ThresholdFilter.obj

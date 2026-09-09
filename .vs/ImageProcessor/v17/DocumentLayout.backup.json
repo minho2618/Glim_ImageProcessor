@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "D:\\work\\Glim_ImageProcessor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|D:\\work\\Glim_ImageProcessor\\ImageProcessor\\GrayscaleFilter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|solutionrelative:ImageProcessor\\GrayscaleFilter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|D:\\work\\Glim_ImageProcessor\\ImageProcessor\\CommandLineParser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|solutionrelative:ImageProcessor\\CommandLineParser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|D:\\work\\Glim_ImageProcessor\\ImageProcessor\\CommandLineParser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|solutionrelative:ImageProcessor\\CommandLineParser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|D:\\work\\Glim_ImageProcessor\\ImageProcessor\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|solutionrelative:ImageProcessor\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|D:\\work\\Glim_ImageProcessor\\ImageProcessor\\GrayscaleFilter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|solutionrelative:ImageProcessor\\GrayscaleFilter.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|D:\\work\\Glim_ImageProcessor\\ImageProcessor\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|solutionrelative:ImageProcessor\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|D:\\work\\Glim_ImageProcessor\\ImageProcessor\\GrayscaleFilter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|solutionrelative:ImageProcessor\\GrayscaleFilter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|D:\\work\\Glim_ImageProcessor\\ImageProcessor\\FilterBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|solutionrelative:ImageProcessor\\FilterBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|D:\\work\\Glim_ImageProcessor\\ImageProcessor\\ImageBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -27,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|solutionrelative:ImageProcessor\\BmpParser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|D:\\work\\Glim_ImageProcessor\\ImageProcessor\\CommandLineParser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|solutionrelative:ImageProcessor\\CommandLineParser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|D:\\work\\Glim_ImageProcessor\\ImageProcessor\\BmpParser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A1B2C3D4-E5F6-4A7B-8C9D-0E1F2A3B4C5D}|ImageProcessor\\ImageProcessor.vcxproj|solutionrelative:ImageProcessor\\BmpParser.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -42,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +58,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "CommandLineParser.cpp",
+              "DocumentMoniker": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\CommandLineParser.cpp",
+              "RelativeDocumentMoniker": "ImageProcessor\\CommandLineParser.cpp",
+              "ToolTip": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\CommandLineParser.cpp",
+              "RelativeToolTip": "ImageProcessor\\CommandLineParser.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-09T00:12:19.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilterBase.h",
+              "DocumentMoniker": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\FilterBase.h",
+              "RelativeDocumentMoniker": "ImageProcessor\\FilterBase.h",
+              "ToolTip": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\FilterBase.h",
+              "RelativeToolTip": "ImageProcessor\\FilterBase.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-08T02:06:07.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CommandLineParser.h",
               "DocumentMoniker": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\CommandLineParser.h",
               "RelativeDocumentMoniker": "ImageProcessor\\CommandLineParser.h",
@@ -63,46 +96,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GrayscaleFilter.h",
               "DocumentMoniker": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\GrayscaleFilter.h",
               "RelativeDocumentMoniker": "ImageProcessor\\GrayscaleFilter.h",
               "ToolTip": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\GrayscaleFilter.h",
               "RelativeToolTip": "ImageProcessor\\GrayscaleFilter.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-09-07T06:54:58.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T06:54:58.172Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "GrayscaleFilter.cpp",
               "DocumentMoniker": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\GrayscaleFilter.cpp",
               "RelativeDocumentMoniker": "ImageProcessor\\GrayscaleFilter.cpp",
               "ToolTip": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\GrayscaleFilter.cpp",
               "RelativeToolTip": "ImageProcessor\\GrayscaleFilter.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-07T06:54:41.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T06:54:41.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BmpParser.h",
-              "DocumentMoniker": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\BmpParser.h",
-              "RelativeDocumentMoniker": "ImageProcessor\\BmpParser.h",
-              "ToolTip": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\BmpParser.h",
-              "RelativeToolTip": "ImageProcessor\\BmpParser.h",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-09-07T08:30:49.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "BmpParser.cpp",
               "DocumentMoniker": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\BmpParser.cpp",
               "RelativeDocumentMoniker": "ImageProcessor\\BmpParser.cpp",
@@ -110,12 +128,11 @@
               "RelativeToolTip": "ImageProcessor\\BmpParser.cpp",
               "ViewState": "AgIAAJkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-07T08:58:09.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T08:58:09.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ImageBuffer.h",
               "DocumentMoniker": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\ImageBuffer.h",
               "RelativeDocumentMoniker": "ImageProcessor\\ImageBuffer.h",
@@ -123,21 +140,7 @@
               "RelativeToolTip": "ImageProcessor\\ImageBuffer.h",
               "ViewState": "AgIAACMAAAAAAAAAAAAEwEAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-09-07T06:53:43.389Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ImageBuffer.cpp",
-              "DocumentMoniker": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\ImageBuffer.cpp",
-              "RelativeDocumentMoniker": "ImageProcessor\\ImageBuffer.cpp",
-              "ToolTip": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\ImageBuffer.cpp",
-              "RelativeToolTip": "ImageProcessor\\ImageBuffer.cpp",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-09-07T08:48:54.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T06:53:43.389Z"
             },
             {
               "$type": "Document",
@@ -147,10 +150,34 @@
               "RelativeDocumentMoniker": "ImageProcessor\\main.cpp",
               "ToolTip": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\main.cpp",
               "RelativeToolTip": "ImageProcessor\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-09-07T06:39:30.974Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BmpParser.h",
+              "DocumentMoniker": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\BmpParser.h",
+              "RelativeDocumentMoniker": "ImageProcessor\\BmpParser.h",
+              "ToolTip": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\BmpParser.h",
+              "RelativeToolTip": "ImageProcessor\\BmpParser.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-07T08:30:49.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImageBuffer.cpp",
+              "DocumentMoniker": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\ImageBuffer.cpp",
+              "RelativeDocumentMoniker": "ImageProcessor\\ImageBuffer.cpp",
+              "ToolTip": "D:\\work\\Glim_ImageProcessor\\ImageProcessor\\ImageBuffer.cpp",
+              "RelativeToolTip": "ImageProcessor\\ImageBuffer.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-07T08:48:54.387Z"
             }
           ]
         }

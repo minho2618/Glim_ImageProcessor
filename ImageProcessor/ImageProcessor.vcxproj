@@ -88,6 +88,7 @@
     <ClCompile Include="ImageBuffer.cpp" />
     <ClCompile Include="BmpParser.cpp" />
     <ClCompile Include="CommandLineParser.cpp" />
+    <ClCompile Include="ThresholdFilter.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Exceptions.h" />
@@ -99,6 +100,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
+    <None Include="ThresholdFilter.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
 </Project>

@@ -20,7 +20,7 @@
  // TODO: 본인이 구현한 필터 헤더를 include 하세요.
 #include "FilterBase.h"
 #include "GrayscaleFilter.h"
- // #include "ThresholdFilter.h"
+#include "ThresholdFilter.h"
  // ...
 
 int main(int argc, char* argv[]) {
@@ -65,8 +65,8 @@ int main(int argc, char* argv[]) {
              filter.apply(image);
         }
         else if (options.filterName == "threshold:128") {
-            //ThresholdFilter filter(128);
-            //filter.apply(image);
+            ip::ThresholdFilter filter(128);
+            filter.apply(image);
         }
         else {
            throw ip::FilterError("Unknown filter: " + options.filterName);
