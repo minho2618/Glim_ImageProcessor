@@ -83,6 +83,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BrightnessFilter.cpp" />
+    <ClCompile Include="ContrastFilter.cpp" />
     <ClCompile Include="GrayscaleFilter.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="ImageBuffer.cpp" />
@@ -91,6 +93,8 @@
     <ClCompile Include="ThresholdFilter.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BrightnessFilter.h" />
+    <ClInclude Include="ContrastFilter.h" />
     <ClInclude Include="Exceptions.h" />
     <ClInclude Include="FilterBase.h" />
     <ClInclude Include="GrayscaleFilter.h" />

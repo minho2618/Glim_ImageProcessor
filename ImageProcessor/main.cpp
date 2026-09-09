@@ -17,11 +17,12 @@
 
 #include <iostream>
 
- // TODO: 본인이 구현한 필터 헤더를 include 하세요.
+// TODO: 본인이 구현한 필터 헤더를 include 하세요.
 #include "FilterBase.h"
 #include "GrayscaleFilter.h"
 #include "ThresholdFilter.h"
- // ...
+#include "BrightnessFilter.h"
+#include "ContrastFilter.h"
 
 int main(int argc, char* argv[]) {
     try {
@@ -66,6 +67,14 @@ int main(int argc, char* argv[]) {
         }
         else if (options.filterName == "threshold:128") {
             ip::ThresholdFilter filter(128);
+            filter.apply(image);
+        }
+        else if (options.filterName == "brightness:50") {
+            ip::BrightnessFilter filter(50);
+            filter.apply(image);
+        }
+        else if (options.filterName == "contrast:0.5") {
+            ip::ContrastFilter filter(50);
             filter.apply(image);
         }
         else {

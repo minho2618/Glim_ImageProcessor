@@ -16,6 +16,6 @@ namespace ip {
 		void apply(ImageBuffer& image) override;
 
 	private:
-		int threshold;
+		int threshold = 128;
 	};
 } // namespace ip

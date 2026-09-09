@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="ImageBuffer.cpp" />
+    <ClCompile Include="BmpParser.cpp" />
+    <ClCompile Include="CommandLineParser.cpp" />
+    <ClCompile Include="ThresholdFilter.cpp">
+      <Filter>Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="GrayscaleFilter.cpp">
+      <Filter>Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="BrightnessFilter.cpp">
+      <Filter>Filters</Filter>
+    </ClCompile>
+    <ClCompile Include="ContrastFilter.cpp">
+      <Filter>Filters</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Exceptions.h" />
+    <ClInclude Include="FilterBase.h" />
+    <ClInclude Include="ImageBuffer.h" />
+    <ClInclude Include="BmpParser.h" />
+    <ClInclude Include="CommandLineParser.h" />
+    <ClInclude Include="GrayscaleFilter.h">
+      <Filter>Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="BrightnessFilter.h">
+      <Filter>Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="ContrastFilter.h">
+      <Filter>Filters</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".gitignore" />
+    <None Include="ThresholdFilter.h">
+      <Filter>Filters</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Filters">
+      <UniqueIdentifier>{22b71f74-bf58-4696-964f-fecfb6a87e0c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
