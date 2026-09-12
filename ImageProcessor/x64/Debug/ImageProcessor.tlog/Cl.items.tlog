@@ -1,5 +1,6 @@
 D:\work\Glim_ImageProcessor\ImageProcessor\BrightnessFilter.cpp;D:\work\Glim_ImageProcessor\ImageProcessor\x64\Debug\BrightnessFilter.obj
 D:\work\Glim_ImageProcessor\ImageProcessor\ContrastFilter.cpp;D:\work\Glim_ImageProcessor\ImageProcessor\x64\Debug\ContrastFilter.obj
+D:\work\Glim_ImageProcessor\ImageProcessor\ConvolutionFilter.cpp;D:\work\Glim_ImageProcessor\ImageProcessor\x64\Debug\ConvolutionFilter.obj
 D:\work\Glim_ImageProcessor\ImageProcessor\GrayscaleFilter.cpp;D:\work\Glim_ImageProcessor\ImageProcessor\x64\Debug\GrayscaleFilter.obj
 D:\work\Glim_ImageProcessor\ImageProcessor\main.cpp;D:\work\Glim_ImageProcessor\ImageProcessor\x64\Debug\main.obj
 D:\work\Glim_ImageProcessor\ImageProcessor\ImageBuffer.cpp;D:\work\Glim_ImageProcessor\ImageProcessor\x64\Debug\ImageBuffer.obj

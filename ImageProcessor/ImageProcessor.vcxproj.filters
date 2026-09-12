@@ -17,6 +17,9 @@
     <ClCompile Include="ContrastFilter.cpp">
       <Filter>Filters</Filter>
     </ClCompile>
+    <ClCompile Include="ConvolutionFilter.cpp">
+      <Filter>Filters</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Exceptions.h" />
@@ -31,6 +34,9 @@
       <Filter>Filters</Filter>
     </ClInclude>
     <ClInclude Include="ContrastFilter.h">
+      <Filter>Filters</Filter>
+    </ClInclude>
+    <ClInclude Include="ConvolutionFilter.h">
       <Filter>Filters</Filter>
     </ClInclude>
   </ItemGroup>

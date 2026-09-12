@@ -23,6 +23,7 @@
 #include "ThresholdFilter.h"
 #include "BrightnessFilter.h"
 #include "ContrastFilter.h"
+#include "ConvolutionFilter.h"
 
 int main(int argc, char* argv[]) {
     try {
@@ -75,6 +76,26 @@ int main(int argc, char* argv[]) {
         }
         else if (options.filterName == "contrast:0.5") {
             ip::ContrastFilter filter(50);
+            filter.apply(image);
+        }
+        else if (options.filterName == "blur") {
+            ip::ConvolutionFilter::Kernel blurKernel{ {
+                {{1.0 / 9, 1.0 / 9, 1.0 / 9}},
+                {{1.0 / 9, 1.0 / 9, 1.0 / 9}},
+                {{1.0 / 9, 1.0 / 9, 1.0 / 9}}
+            } };
+
+            ip::ConvolutionFilter filter(blurKernel);
+            filter.apply(image);
+        }
+        else if (options.filterName == "sharpen") {
+            ip::ConvolutionFilter::Kernel sharpenKernel{ {
+                {{ 0, -1,  0}},
+                {{-1,  5, -1}},
+                {{ 0, -1,  0}}
+            } };
+
+            ip::ConvolutionFilter filter(sharpenKernel);
             filter.apply(image);
         }
         else {

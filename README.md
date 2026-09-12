@@ -5,6 +5,7 @@
 - Grayscale 변환
 - Threshold 변환(가중치는 128로 고정됨)
 - 밝기 / 대비 조절(값은 50/0.5로 고정됨)
+- 3 x 3 convolution 필터 (blur / sharpen)
 - 
 
 ## 실행 명령어 (예시)
